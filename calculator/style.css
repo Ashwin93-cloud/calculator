@@ -1,0 +1,38 @@
+#clear{
+    
+    width: 330px;
+    margin-left: 4px;
+}
+.main{
+    width: 340px;
+    height: 350px;
+    margin: auto;
+    background-color: rgb(179, 220, 216);
+    border: 2px solid black;
+
+}
+input{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(128, 9, 9);
+    color: white;
+    font-size: 20px;
+    margin-left: 1px;
+    cursor: pointer;
+}
+#forming{
+    margin-top: 10px;
+    width: 330px;
+    background-color: black;
+}
+#cal{
+    text-align: center;
+    color:rgb(141, 11, 11);
+    margin-top: 80px;
+}
+body{
+    background-color: rgb(24, 144, 102);
+}
+/* f1{
+    background-color: rgb(34, 0, 255);
+} */
